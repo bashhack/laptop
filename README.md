@@ -67,6 +67,11 @@ and how it works.
 NOTE: :warning: The script may ask you to enter your MacOS password at various
 points. This is the same password that you use to log in to your Mac.
 
+Tips & Tricks for M1
+--------------------
+
+Please see [Tips & Tricks Wiki](https://github.com/Mariana-Tek/laptop/wiki/Tips-Tricks) for specific setup necessary to complete the configuration of installed software included in the `mac` script.
+
 Uninstall
 ---------
 
